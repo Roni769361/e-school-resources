@@ -1,0 +1,38 @@
+body{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 70px;
+}
+
+#navbar{
+    background-color: #F0FFF0;
+}
+.bg-navbar{
+    background-color: #F0FFF0;
+}
+.sing-in{
+    border-radius: 33px;
+    color: white;
+    background-color: #21B573;
+    width: 104px;
+    height: 43px;
+    border: none
+}
+
+.sub-head{
+    color: #21B573;
+}
+.get-start{
+    border-radius: 33px;
+    color: white;
+    background-color: #21B573;
+    width: 150px;
+    height: 43px;
+    border: none
+}
+#Home{
+    padding: 120px 36px;
+
+}
